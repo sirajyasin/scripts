@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -xe
+set -e
 
 : ${HELM_VERSION:="v3.0.3"}
 : ${CHARTMUSEUM_VERSION:="v0.11.0"}
